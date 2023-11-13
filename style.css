@@ -1,0 +1,80 @@
+.div1 {
+    width: 200px;
+    height: 100px;
+}
+
+#parrafo {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.title {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+a {
+    border: 2px red solid;
+}
+
+.boton {
+    width: 150px;
+    margin-right: 10px;
+}
+
+.div2 {
+    border: 3px;
+}
+
+.lista li {
+    padding: 15px;
+}
+
+.parrafo2 {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.div3 {
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.cuadro {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+}
+
+.cuadro2 {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#elemento {
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.parrafo3 {
+    max-width: 400px;
+    margin:  0px;
+}
+
+img {
+    border: 2px solid green;
+}
+
+.boton2 {
+    width: 120px;
+    margin: 10px;
+    padding: 5px;
+}
